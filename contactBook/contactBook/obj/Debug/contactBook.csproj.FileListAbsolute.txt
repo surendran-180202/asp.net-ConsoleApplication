@@ -1,0 +1,8 @@
+C:\Education\Trining\sql try\contactBook\contactBook\bin\Debug\contactBook.exe.config
+C:\Education\Trining\sql try\contactBook\contactBook\bin\Debug\contactBook.exe
+C:\Education\Trining\sql try\contactBook\contactBook\bin\Debug\contactBook.pdb
+C:\Education\Trining\sql try\contactBook\contactBook\obj\Debug\contactBook.csproj.AssemblyReference.cache
+C:\Education\Trining\sql try\contactBook\contactBook\obj\Debug\contactBook.csproj.SuggestedBindingRedirects.cache
+C:\Education\Trining\sql try\contactBook\contactBook\obj\Debug\contactBook.csproj.CoreCompileInputs.cache
+C:\Education\Trining\sql try\contactBook\contactBook\obj\Debug\contactBook.exe
+C:\Education\Trining\sql try\contactBook\contactBook\obj\Debug\contactBook.pdb
